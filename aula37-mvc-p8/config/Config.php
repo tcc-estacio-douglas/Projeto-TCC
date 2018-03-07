@@ -1,6 +1,6 @@
 <?php
 
-define('URL', 'http://localhost/celke/aula37-mvc-p8/');
+define('URL', 'http://localhost/tcc-php-oo/aula37-mvc-p8/');
 //Credenciais de acesso ao BD
 define('HOST', 'localhost');
 define('USER', 'root');
